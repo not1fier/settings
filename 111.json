@@ -1,4 +1,4 @@
 {  
-   "upload-mobile":true,
-   "capture-all":true
+   "upload-mobile":false,
+   "capture-all":false
 }
